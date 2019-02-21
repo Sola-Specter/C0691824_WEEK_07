@@ -22,3 +22,5 @@ var bear = {
     deadly: true
 };
 
+var games = ['FIFA 19','PES 2019','FORTNITE','CALL OF DUTY'];
+
